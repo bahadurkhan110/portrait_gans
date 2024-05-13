@@ -49,7 +49,9 @@ The portrait dataset used in this project consists of diverse images of human fa
 
 - **Training Iterations:** The GANs were trained over approximately 700 epochs, with each epoch contributing to model performance improvement. Despite the time-consuming nature of training, results showed gradual progress and enhancement in generated images.
 
-
+<p align="center">
+  <img src="gans_arch.png" alt="Generated Portraits" width="600" height="400">
+</p>
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
