@@ -1,4 +1,4 @@
-# Portrait GAN Project
+# Portrait GAN - Generate Realistic Portrait Images through Generative Adversarial Networks
 <p align="center">
   <img src="image_at_epoch_0640.png" alt="Generated Portraits" width="600" height="400">
 </p>
