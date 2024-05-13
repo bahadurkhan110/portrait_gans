@@ -17,23 +17,16 @@ This project aims to train Generative Adversarial Networks (GANs) to generate re
 
 ## Results
 
-### Epoch 1
-![Generated Portraits at Epoch 1](epoch1.png)
+<p align="center">
+  <img src="results/image_at_epoch_0001.png" alt="Generated Portraits at Epoch 1" width="200" height="200">
+  <img src="results/image_at_epoch_0100.png" alt="Generated Portraits at Epoch 100" width="200" height="200">
+  <img src="results/image_at_epoch_0200.png" alt="Generated Portraits at Epoch 200" width="200" height="200">
+  <img src="results/image_at_epoch_0300.png" alt="Generated Portraits at Epoch 300" width="200" height="200">
+  <img src="results/image_at_epoch_0400.png" alt="Generated Portraits at Epoch 400" width="200" height="200">
+</p>
+<p align="center">
+  <img src="results/image_at_epoch_0500.png" alt="Generated Portraits at Epoch 500" width="200" height="200">
+  <img src="results/image_at_epoch_0600.png" alt="Generated Portraits at Epoch 600" width="200" height="200">
+  <img src="results/image_at_epoch_0639.png" alt="Generated Portraits at Epoch 639 (Final Epoch)" width="200" height="200">
+</p>
 
-### Epoch 100
-![Generated Portraits at Epoch 100](epoch100.png)
-
-### Epoch 200
-![Generated Portraits at Epoch 200](epoch200.png)
-
-### Epoch 300
-![Generated Portraits at Epoch 300](epoch300.png)
-
-### Epoch 400
-![Generated Portraits at Epoch 400](epoch400.png)
-
-### Epoch 500
-![Generated Portraits at Epoch 500](epoch500.png)
-
-### Epoch 600
-![Generated Portraits at Epoch 600](epoch600.png)
