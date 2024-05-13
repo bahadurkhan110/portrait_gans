@@ -5,6 +5,9 @@
 
 ## Overview
 This project aims to train Generative Adversarial Networks (GANs) to generate realistic portrait images. GANs are powerful deep learning models capable of generating synthetic data that closely resembles real data. In this project, we leverage GANs to generate diverse and visually appealing portrait images, which can have applications in art generation, data augmentation, and image synthesis.
+<p align="center">
+  <img src="gans.png" alt="Generated Portraits" width="600" height="400">
+</p>
 
 ## Features
 - Trained  GAN models on a diverse portrait dataset.
