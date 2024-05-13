@@ -13,6 +13,9 @@ This project aims to train Generative Adversarial Networks (GANs) to generate re
 
 ## Getting Started
 1. Clone the repository:
+   ```bash
+     git clone https://github.com/bahadurkhan110/portrait_gans.git
+   ```
 
 
 ## Dataset
