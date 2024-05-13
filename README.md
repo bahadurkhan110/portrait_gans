@@ -1,6 +1,6 @@
 # Portrait GAN Project
 <p align="center">
-  <img src="image_at_epoch_0640" alt="Generated Portraits" width="600" height="400">
+  <img src="image_at_epoch_0640.png" alt="Generated Portraits" width="600" height="400">
 </p>
 
 ## Overview
