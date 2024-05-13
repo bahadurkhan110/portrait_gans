@@ -15,7 +15,18 @@ This project aims to train Generative Adversarial Networks (GANs) to generate re
 1. Clone the repository:
 
 
+## Dataset
+The portrait dataset used in this project consists of diverse images of human faces sourced from various online repositories. The dataset is preprocessed and augmented to improve model generalization and diversity in generated images.
+
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+
 ## Results
+
+After extensive training and experimentation, the trained GAN models demonstrate promising results in generating realistic portrait images. Despite challenges such as mode collapsing and training instability, the models show gradual improvement over time, capturing essential features and patterns present in the dataset.
+
 
 <p align="center">  
   <img src="results/image_at_epoch_0001.png" alt="Generated Portraits at Epoch 100" width="200" height="200">
@@ -29,4 +40,10 @@ This project aims to train Generative Adversarial Networks (GANs) to generate re
   <img src="results/image_at_epoch_0600.png" alt="Generated Portraits at Epoch 600" width="200" height="200">
   <img src="results/image_at_epoch_0639.png" alt="Generated Portraits at Epoch 639 (Final Epoch)" width="200" height="200">
 </p>
+
+## Future Directions
+- Explore advanced GAN architectures such as Progressive GANs or StyleGAN.
+- Refine evaluation metrics and incorporate human perceptual studies for more comprehensive assessment.
+- Investigate techniques for handling diverse and complex datasets to improve model performance.
+- Experiment with transfer learning and fine-tuning on specific portrait styles or characteristics.
 
