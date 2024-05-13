@@ -18,7 +18,6 @@ This project aims to train Generative Adversarial Networks (GANs) to generate re
 ## Results
 
 <p align="center">
-  <img src="results/image_at_epoch_0001.png" alt="Generated Portraits at Epoch 1" width="200" height="200">
   <img src="results/image_at_epoch_0100.png" alt="Generated Portraits at Epoch 100" width="200" height="200">
   <img src="results/image_at_epoch_0200.png" alt="Generated Portraits at Epoch 200" width="200" height="200">
   <img src="results/image_at_epoch_0300.png" alt="Generated Portraits at Epoch 300" width="200" height="200">
